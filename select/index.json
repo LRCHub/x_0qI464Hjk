@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フランネル",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2026-03-19T07:14:07.673903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フランネル",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_フランネル_おいしくるメロンパン.txt"
+    }
+  ]
+}
